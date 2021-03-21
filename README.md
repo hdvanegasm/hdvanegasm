@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+😄 My name is Hernán Darío Vanegas. I have a Bachelor degree in Computer Engineering and I am currently studying a Bachelor degree in Mathematics. I am interested in algorithm analysis and cryptography. In general, I am interested in apply abstract mathematics concepts to computer science areas.
+
+🔭 I’m currently working at Universidad Nacional de Colombia as a Auxiliary Student. Specifically I am helping to improve the key online curses of the university like Programming Fundamentals in Python 3.
+
+🌱 I am currently learning multi-party computation and its applications to machine learning.
+
 <!--
 **hernan232/hernan232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
