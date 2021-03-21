@@ -4,7 +4,7 @@
 
 🔭 I’m currently working at Universidad Nacional de Colombia as a Auxiliary Student. Specifically, I am helping to improve the key online curses of the university like Programming Fundamentals in Python 3.
 
-🌱 I am currently learning multi-party computation and its applications to machine learning.
+🌱 I am currently learning secure multi-party computation and its applications to machine learning.
 
 <!--
 **hernan232/hernan232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
