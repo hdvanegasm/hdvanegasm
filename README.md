@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-😄 My name is Hernán Darío Vanegas. I have a Bachelor's degree in Computer Engineering and I am currently doing a Bachelor's degree in Mathematics. I am interested in algorithm analysis and cryptography. In general, I am interested in apply abstract mathematics concepts to computer science areas.
+😄 My name is Hernán Darío Vanegas. I have a Bachelor's degree in Computer Engineering and I am currently doing a Bachelor's degree in Mathematics. I am interested in algorithm analysis and cryptography. In general, I am interested in applying abstract mathematic concepts to computer science areas.
 
 🔭 I’m currently working at Universidad Nacional de Colombia as a Auxiliary Student. Specifically, I am helping to improve the key online courses of the university like Programming Fundamentals in Python 3.
 
