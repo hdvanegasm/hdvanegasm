@@ -1,6 +1,6 @@
 😄 My name is Hernán Darío Vanegas Madrigal. I have a Bachelor's degree in Computer Engineering and Bachelor's degree in Mathematics. I'm currently an MSc. student in Applied Mathematics at National University of Colombia. I am interested in cryptography and algorithm analysis. In general, I am interested in applying abstract mathematic concepts to computer science areas.
 
-🌱 I am currently learning secure multi-party computation and its applications to machine learning.
+🌱 I am currently learning secure multi-party computation and its applications to machine learning and genomics algorithms. Also, I'm interested in learning Rust.
 
 <!--
 **hernan232/hernan232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
